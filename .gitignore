@@ -1,0 +1,8 @@
+ext/utf8/init.o
+ext/utf8/mkmf.log
+ext/utf8/odbc_utf8.so
+ext/utf8/odbc.o
+ext/init.o
+ext/mkmf.log
+ext/odbc.o
+ext/odbc.so
